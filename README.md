@@ -18,4 +18,4 @@ You are provided with traffic data of JetRail since inception in the test file.
 4) Parameter tuning for ARIMA model<br/>
 5) SARIMAX model on daily time series<br/>
 
-
+Jahid Hasan
